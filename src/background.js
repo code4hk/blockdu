@@ -12,6 +12,6 @@ chrome.webRequest.onBeforeRequest.addListener(function(info) {
     },{
         urls: filterUrls,
         types: ["script","image"]        
-    }
+    },["blocking"]
                                              
  );
