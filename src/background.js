@@ -1,7 +1,7 @@
 
 var filterUrls = [
-  "*://*.baidu.com/*.js",
-  "*://*.baidustatic.com/*.js"   
+  "*://*.baidu.com/*.js*",
+  "*://*.baidustatic.com/*.js*"   
 ];
 
 chrome.webRequest.onBeforeRequest.addListener(function(info) {
