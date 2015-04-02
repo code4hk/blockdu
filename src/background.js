@@ -1,7 +1,8 @@
 
 var filterUrls = [
   "*://*.baidu.com/*.js*",
-  "*://*.baidustatic.com/*.js*"   
+  "*://*.baidustatic.com/*.js*",
+  "*://sjs.sinajs.cn/blog7common/js/boot.js"
 ];
 
 chrome.webRequest.onBeforeRequest.addListener(function(info) {
