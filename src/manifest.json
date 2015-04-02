@@ -3,10 +3,11 @@
       "scripts": ["background.js"],
       "persistent": true
    },
-   "description": "Blockdu - Install this extension to prevent your browser be used to attack Github.",
+   "description": "__MSG_appDesc__",
    "manifest_version": 2,
+   "default_locale": "en",
    "minimum_chrome_version": "18",
-   "name": "Blockdu",
+   "name": "__MSG_appName__",
    "permissions": [ "webRequest", "webRequestBlocking", "http://*/*", "https://*/*" ],
-   "version": "0.1.0"
+   "version": "0.1.2"
 }

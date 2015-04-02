@@ -1,4 +1,8 @@
 {
+    "appName" : {
+        "message" : "Blockdu"    
+    },
+    
     "appDesc" : {
         "message" : "Blocking offending scripts related to the GitHub DDoS incident, annoying messages and being exploited as source of attack."
     }

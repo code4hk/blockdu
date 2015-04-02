@@ -1,4 +1,8 @@
 {
+    "appName" : {
+        "message" : "Blockdu"    
+    },
+
     "appDesc" : {
         "message" : "封鎖GitHub事件相關有問題的程式碼，防止出現煩人的訊息及被利用作為攻擊源。"
     }
