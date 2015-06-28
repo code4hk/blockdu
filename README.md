@@ -1,7 +1,9 @@
 A Chrome extension to prevent your browser be used to attack Github
 ===================================================================
 
-This extension is not available in Chrome Web Store yet. Only developer preview is available:
+This extension is now available in Chrome Web Store. The download link:
+
+[Blockdu - Chrome Web Store](https://chrome.google.com/webstore/detail/blockdu/effllpcngdchldpedlbehnipblaamnng)
 
 Installation Intructions for Developer
 =====================================
